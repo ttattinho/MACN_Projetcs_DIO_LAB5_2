@@ -1,3 +1,8 @@
+# MACN_Projetcs_DIO_LAB5_2
+## Lab 5 do Bootcamb de MACN (Microsoft Azure Cloud Native)
+
+### Aviso: Este código foi fornecido pelo instrutor do curso de Microsoft Azure Cloud Native na plataforma DIO. O código original foi fornecido pelo instrutor Henrique Eduardo Souza e pode ser acessado no seguinte repositório:https://github.com/digitalinnovationone/Microsoft_Application_Platform
+
 # fnGeradorBoletos
 
 Azure Function para geração de códigos de barras bancários, com imagem base64 e envio de mensagem para o Azure Service Bus.
